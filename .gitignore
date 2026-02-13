@@ -1,0 +1,16 @@
+# Virtual Environment
+GC/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+vegetable_classification.h5
